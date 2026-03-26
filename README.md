@@ -27,12 +27,12 @@ Os resultados dos projetos devem obedecer ao Aviso Legal disponível no site da 
 
 
 # Objetivo do Projeto
-Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma GitHub, visando:
-* Centralizar os trabalhos e projetos;
-* Organizar e estruturar as informações;
-* Versionar e controlar as alterações;
-* Facilitar o compartilhamento e feedback;
-* Desenvolver habilidades técnicas.
+Este projeto tem como objetivo forncer aos tomadores de decisão do IPEM um dashboard que os pemita visualizar:
+* As principais cargas especiais perigosas movimentadas no período de 2013 a 2025;
+* Os principais modais utilzados para a movimentação de cargas especiais perigosas;
+* Quais as principais origens e destinos;
+* A evolução da moviemntação ao longo do tempo;
+* Quais as principais empresas movimentadoras de cargas especiais perigosas;
 
 
 ## Tecnologias Utilizadas
