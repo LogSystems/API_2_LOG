@@ -1,10 +1,8 @@
-# 📌 MVP - [Nome do Projeto]
-
+# 📌 MVP - LogSystem: Sprint 1 
 ## 🎯 Objetivo do MVP
-> Descrever de forma clara qual é o propósito do MVP:  
-- Qual problema resolve?  
-- Qual hipótese será validada?  
-- Qual valor será entregue ao usuário final?  
+- Entregar ao usuário um dasboard que o permita visualisar as principais cargas especiais perigosas assim como as principais empresas, origem e destino das cargas e a evolução das movimentações, entegrando filtros que facilitem a busca por informações; 
+- Tratar os dados fornecidos pelo portal do IBAMA para utilização no PowerBI;
+- Entregar uma fonte de análise funcionall, com dados sussintos e reais.
 
 ---
 
@@ -17,16 +15,19 @@
 ---
 
 ## 👥 Personas / Usuários-Alvo
-- **Persona 1:** breve descrição, necessidades e dores atendidas  
-- **Persona 2:** breve descrição, necessidades e dores atendidas  
+- **Persona 1:** Gestor do IPEM, responsável pelas tomadas de decisões envolvendo o transporte de cargas especiais perigosas. 
 
 ---
 
 ## 🔑 User Stories (Backlog do MVP)
 | ID  | User Story                                                                 | Prioridade | Estimativa |
 |-----|-----------------------------------------------------------------------------|------------|------------|
-| US1 | Como [tipo de usuário], quero [objetivo] para [benefício esperado].         | Alta       | 5 pontos   |
-| US2 | Como [tipo de usuário], quero [objetivo] para [benefício esperado].         | Média      | 3 pontos   |
+| US1 | Como gestor do IPEM, quero visualizar as principais cargas perigosas movimentadas, para identificar quais representam maior volume.        | Alta       | 5 pontos   |
+| US2 | Como gestor do IPEM, quero identificar os modais mais utilizados no transporte de cargas perigosas, para entender padrões logísticos.        | Alta      | 3 pontos   |
+| US3 | Como gestor do IPEM, quero receber o laudo da vistoria predial para anexar ao processo de auditoria da prefeitura.                          | Alta      | 3 pontos   |
+| US4 | Como gestor do IPEM, quero visualizar os principais destinos, para entender o fluxo logístico.                                             | Alta     | 3 pontos   |
+| US5 | Como gestor do IPEM, quero acompanhar a evolução da movimentação ao longo do tempo, para identificar tendências.                           | Alta     | 3 pontos   |
+| US6 | Como gestor do IPEM, quero visualizar as principais empresas que transportam cargas perigosas, para priorizar auditorias.                  | Alta      | 3 pontos   |
 
 ---
 
