@@ -51,11 +51,21 @@ Este projeto tem como objetivo forncer aos tomadores de decisão do IPEM um dash
 
 | Rank | Prioridade | User Story                                                                                                                                              | Estimativa | Sprint |
 |------|------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|------------|--------|
-| 1    | Alta       | Como síndico, quero abrir solicitações de vistoria predial para atender à legislação de meu município                                                    | 5          | 1      |
-| 2    | Alta       | Como atendente, quero gerenciar as solicitações de vistoria para agendar atendimento                                                                    | 8          | 1      |
-| 3    | Alta       | Como síndico, quero receber o laudo da vistoria predial para anexar ao processo de auditoria da prefeitura                                               | 5          | 2      |
-| ...  | Média      | ...                                                                                                                                                     | ...        | ...    |
-| 17   | Baixa      | Como atendente, quero um relatório de aniversários dos funcionários do condomínio que utilizam o sistema para enviar cartões acompanhados de brindes     | 2          | 3      |
+| 1    | Alta       | Como gestor do IPEM, quero visualizar as principais cargas perigosas movimentadas, para identificar quais representam maior volume.                     | 15          | 1      |
+| 2    | Alta       | Como gestor do IPEM, quero identificar os modais mais utilizados no transporte de cargas perigosas, para entender padrões logísticos.                   | 10          | 1      |
+| 3    | Alta       | Como gestor do IPEM, quero receber o laudo da vistoria predial para anexar ao processo de auditoria da prefeitura                                       | 5          | 1      |
+| 4    | Alta      | Como gestor do IPEM, quero visualizar os principais destinos, para entender o fluxo logístico.                                                           | 5        | 1      |
+| 5    | Alta      | Como gestor do IPEM, quero acompanhar a evolução da movimentação ao longo do tempo, para identificar tendências.                                         | 20          | 1      |
+| 6    | Alta      | Como gestor do IPEM, quero visualizar as principais empresas que transportam cargas perigosas, para priorizar auditorias.                                | 10          | 1      |
+| 7    | Alta      | Como gestor do IPEM, quero aplicar filtros (tempo, tipo de carga, modal, região), para realizar análises personalizadas.                                 | 2          | 2      |
+| 8    | Alta      | Como gestor do IPEM, quero filtrar cargas por classificação de risco, para focar nas mais perigosas.                                                     | 20          | 2      |
+| 9    | Média      | Como gestor do IPEM, quero comparar o volume transportado entre modais, para avaliar riscos associados a cada tipo.                                     | 20         | 2      |
+| 10   | Média      | Como gestor do IPEM, quero identificar períodos com maior volume de transporte, para planejar operações.                                                | 15          | 2      |
+| 11   | Alta      | Como gestor do IPEM, quero analisar o volume transportado por empresa, para identificar concentração de mercado.                                         | 20          | 3      |
+| 12   | Alta      | Como gestor do IPEM, quero ver um mapa com rotas mais frequentes, para identificar corredores críticos.                                                  | 20          | 3      |
+| 13   | Média      | Como gestor do IPEM, quero identificar rotas com maior incidência de irregularidades, para intensificar inspeções.                                      | 40         | 3      |
+| 14   | Média      | Como gestor do IPEM, quero visualizar variações mensais/anuais, para apoiar decisões estratégicas.                                                      | 20          | 3      |
+
 
 
 
