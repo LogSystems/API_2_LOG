@@ -1,4 +1,6 @@
 # LogSystem 
+<<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/32d4399e-77a3-4abe-be68-b1611506ac44" />
+
 
 Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividade, Autonomia, Colaboração e Entrega de Resultados dos estudantes envolvidos
 
