@@ -34,15 +34,17 @@
 ## 📅 Sprint(s) Relacionadas
 | Sprint | Entregas Principais                          | Status   |
 |--------|----------------------------------------------|----------|
-| 01     | [Funcionalidade X, Y]                        | Concluído|
-| 02     | [Funcionalidade Z]                           | Em andamento |
+| 01     | Definir os dados a serem usados                        | Concluído|
+| 02     | Tratar os dados                           | Em andamento |
+| 03     | Transferir os dados para o PowerBi                           | Em andamento |
+| 04     | Iniciar a criação do Dashboard                           | Em andamento |
 
 ---
 
 ## 📊 Critérios de Aceitação
-- O MVP deve permitir que o usuário [ação principal]  
-- O sistema deve registrar [evento importante]  
-- Métricas coletadas: [exemplo: tempo de resposta, taxa de uso]  
+- O MVP deve permitir que o usuário acompanhe indicadores de forma clara e dinâmica;  
+- O sistema deve registrar as principais cargas especais perigosas;  
+- Métricas coletadas: origem e destino,   
 
 ---
 
