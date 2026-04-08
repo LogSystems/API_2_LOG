@@ -63,6 +63,4 @@
 ---
 
 ## 📂 Anexos / Evidências
-- Prints de tela  
-- Fluxos ou protótipos  
-- Vídeo (MVP)  
+  
