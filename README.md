@@ -57,7 +57,7 @@ Este projeto tem como objetivo forncer aos tomadores de decisão do IPEM um dash
 | 4    | Alta      | Como gestor do IPEM, quero visualizar os principais destinos, para entender o fluxo logístico.                                                           | 5        | 1      |
 | 5    | Alta      | Como gestor do IPEM, quero acompanhar a evolução da movimentação ao longo do tempo, para identificar tendências.                                         | 20          | 1      |
 | 6    | Alta      | Como gestor do IPEM, quero visualizar as principais empresas que transportam cargas perigosas, para priorizar auditorias.                                | 10          | 1      |
-| 7    | Alta      | Como gestor do IPEM, quero aplicar filtros (tempo, tipo de carga, modal, região), para realizar análises personalizadas.                                 | 2          | 2      |
+| 7    | Alta      | Como gestor do IPEM, quero aplicar filtros (tempo, tipo de carga, modal, região), para realizar análises personalizadas.                                 | 2          | 1      |
 | 8    | Alta      | Como gestor do IPEM, quero filtrar cargas por classificação de risco, para focar nas mais perigosas.                                                     | 20          | 2      |
 | 9    | Média      | Como gestor do IPEM, quero comparar o volume transportado entre modais, para avaliar riscos associados a cada tipo.                                     | 20         | 2      |
 | 10   | Média      | Como gestor do IPEM, quero identificar períodos com maior volume de transporte, para planejar operações.                                                | 15          | 2      |
