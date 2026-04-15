@@ -28,6 +28,7 @@
 | US4 | Como gestor do IPEM, quero visualizar os principais destinos, para entender o fluxo logístico.                                             | Alta     | 3 pontos   |
 | US5 | Como gestor do IPEM, quero acompanhar a evolução da movimentação ao longo do tempo, para identificar tendências.                           | Alta     | 3 pontos   |
 | US6 | Como gestor do IPEM, quero visualizar as principais empresas que transportam cargas perigosas, para priorizar auditorias.                  | Alta      | 3 pontos   |
+| US7 | Como gestor do IPEM, quero aplicar filtros (tempo, tipo de carga, modal, região), para realizar análises personalizadas.                   | Alta          | 2 pontos     |
 
 ---
 
