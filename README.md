@@ -53,7 +53,7 @@ Este projeto tem como objetivo forncer aos tomadores de decisão do IPEM um dash
 |------|------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|------------|--------|
 | 1    | Alta       | Como gestor do IPEM, quero visualizar as principais cargas perigosas movimentadas, para identificar quais representam maior volume.                     | 15          | 1      |
 | 2    | Alta       | Como gestor do IPEM, quero identificar os modais mais utilizados no transporte de cargas perigosas, para entender padrões logísticos.                   | 10          | 1      |
-| 3    | Alta       | Como gestor do IPEM, quero receber o laudo da vistoria predial para anexar ao processo de auditoria da prefeitura                                       | 5          | 1      |
+| 3    | Alta       | Como gestor do IPEM, quero visualisar os principais municípios de origem de cargas, apra mapear polos emissores.                                       | 5          | 1      |
 | 4    | Alta      | Como gestor do IPEM, quero visualizar os principais destinos, para entender o fluxo logístico.                                                           | 5        | 1      |
 | 5    | Alta      | Como gestor do IPEM, quero acompanhar a evolução da movimentação ao longo do tempo, para identificar tendências.                                         | 20          | 1      |
 | 6    | Alta      | Como gestor do IPEM, quero visualizar as principais empresas que transportam cargas perigosas, para priorizar auditorias.                                | 10          | 1      |
