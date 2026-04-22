@@ -24,7 +24,7 @@
 |-----|-----------------------------------------------------------------------------|------------|------------|
 | US1 | Como gestor do IPEM, quero visualizar as principais cargas perigosas movimentadas, para identificar quais representam maior volume.        | Alta       | 5 pontos   |
 | US2 | Como gestor do IPEM, quero identificar os modais mais utilizados no transporte de cargas perigosas, para entender padrões logísticos.        | Alta      | 3 pontos   |
-| US3 | Como gestor do IPEM, quero receber o laudo da vistoria predial para anexar ao processo de auditoria da prefeitura.                          | Alta      | 3 pontos   |
+| US3 | Como gestor do IPEM, quero visualisar os principais municípios de origem de cargas, apra mapear polos emissores.                          | Alta      | 3 pontos   |
 | US4 | Como gestor do IPEM, quero visualizar os principais destinos, para entender o fluxo logístico.                                             | Alta     | 3 pontos   |
 | US5 | Como gestor do IPEM, quero acompanhar a evolução da movimentação ao longo do tempo, para identificar tendências.                           | Alta     | 3 pontos   |
 | US6 | Como gestor do IPEM, quero visualizar as principais empresas que transportam cargas perigosas, para priorizar auditorias.                  | Alta      | 3 pontos   |
