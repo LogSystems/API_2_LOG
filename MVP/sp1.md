@@ -36,9 +36,13 @@
 | Sprint | Entregas Principais                          | Status   |
 |--------|----------------------------------------------|----------|
 | 01     | Definir os dados a serem usados                        | Concluído|
-| 02     | Tratar os dados                           | Em andamento |
-| 03     | Transferir os dados para o PowerBi                           | Em andamento |
-| 04     | Iniciar a criação do Dashboard                           | Em andamento |
+| 02     | Tratar os dados                           | Concluído |
+| 03     | Transferir os dados para o PowerBi                           | Concluído |
+| 04     | Criar visualizadores dos produtos mais transportados                         | Concluído |
+| 05     | Criar visualizadores das principais transportadoras                         | Concluídoo |
+| 06     | Criar visualizadores das cidades origem e destino                         | Concluído |
+| 07     | Criar gárifico de tendência para movimentação de cargas                         | Concluído |
+| 08     | Criar filtros que permitam buscar informações específicas                          | Concluídoo |
 
 ---
 
