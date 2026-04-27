@@ -42,7 +42,7 @@
 | 05     | Criar visualizadores das principais transportadoras                         | Concluídoo |
 | 06     | Criar visualizadores das cidades origem e destino                         | Concluído |
 | 07     | Criar gárifico de tendência para movimentação de cargas                         | Concluído |
-| 08     | Criar filtros que permitam buscar informações específicas                          | Concluídoo |
+| 08     | Criar filtros que permitam buscar informações específicas                          | Concluído |
 
 ---
 
