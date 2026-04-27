@@ -12,8 +12,8 @@ Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividad
 
 
 # Projeto (API) 
-API - Aprendizagem por Projeto Integrador, é a disciplina na qual estudamos a criação de projetos fundamentados em situações reais, analisando dados e criando visualizadores, visando integrálos a realidade das empresas apoiadoras do curso.
-Seguindo na metodologia ágil Scurm, o projeto foi divido em três ciclos de entregas (sprints) onde em cada um o produto terá de ser entregue seguindo as solitações do cliente.
+API - Aprendizagem por Projeto Integrador, é a disciplina na qual estudamos a criação de projetos fundamentados em situações reais, analisando dados e criando visualizadores, visando integrálos a realidade das empresas apoiadoras do curso. 
+Seguindo a metodologia ágil Scurm, o projeto foi divido em três ciclos de entregas (sprints) onde em cada um o produto terá de ser entregue seguindo as solitações do cliente.
 
 
 # Equipe
