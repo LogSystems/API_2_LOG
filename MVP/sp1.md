@@ -48,7 +48,7 @@
 ## 📊 Critérios de Aceitação
 - O MVP deve permitir que o usuário acompanhe indicadores de forma clara e dinâmica;  
 - O sistema deve registrar as principais cargas especais perigosas;  
-- Métricas coletadas: origem e destino, tendência de transporte, rpodutos masi transportados   
+- Métricas coletadas: origem e destino, tendência de transporte, produtos masi transportados   
 
 ---
 
