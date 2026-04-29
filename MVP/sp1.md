@@ -65,4 +65,21 @@
 ---
 
 ## 📂 Anexos / Evidências
+- Prints de tela
+  
+  <img width="1312" height="738" alt="image" src="https://github.com/user-attachments/assets/d798abcd-440d-4b6d-9ec6-41511854b8c7" />
+  
+  <img width="1312" height="738" alt="image" src="https://github.com/user-attachments/assets/7797b0c0-c7a6-4515-b380-f7f59858d650" />
+
+- Vídeo
+
+  
+
+
+
+
+
+
+
+
   
