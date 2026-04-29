@@ -72,10 +72,16 @@
   <img width="1312" height="738" alt="image" src="https://github.com/user-attachments/assets/7797b0c0-c7a6-4515-b380-f7f59858d650" />
 
 - Vídeo
+  
+<img width="692" height="388" alt="BI_2" src="https://github.com/user-attachments/assets/55047f35-bd94-46ab-9df0-fdd88ad13135" />
+
+
+
+
 
   
 
-https://github.com/user-attachments/assets/3cad8d8f-dd47-4d0f-915a-3fecd5198d54
+
 
 
 
