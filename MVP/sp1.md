@@ -48,21 +48,19 @@
 ## 📊 Critérios de Aceitação
 - O MVP deve permitir que o usuário acompanhe indicadores de forma clara e dinâmica;  
 - O sistema deve registrar as principais cargas especais perigosas;  
-- Métricas coletadas: origem e destino,   
+- Métricas coletadas: origem e destino, tendência de transporte, rpodutos masi transportados   
 
 ---
 
 ## 📈 Métricas de Validação
-- Número de usuários que testaram o MVP  
-- Feedback qualitativo (positivo/negativo)  
-- Indicadores de negócio (exemplo: % de adesão, redução de custo, etc.)  
+- Número de usuários que testaram o MVP: 01  
+- Feedback qualitativo (positivo/negativo)
+- Utilidade real para o cliente 
 
 ---
 
 ## 🚀 Próximos Passos
-- Melhorias planejadas após feedback  
-- Ajustes de usabilidade  
-- Expansão de funcionalidades para próximo incremento  
+- (...)
 
 ---
 
