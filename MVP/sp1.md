@@ -60,7 +60,9 @@
 ---
 
 ## 🚀 Próximos Passos
-- (...)
+- Reforçar o tratamento dos dados
+- Anular incosistencias das informações
+- Elaborar novos visores
 
 ---
 
