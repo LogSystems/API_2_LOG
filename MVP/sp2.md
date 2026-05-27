@@ -9,7 +9,7 @@
 ---
 
 ## 📝 Descrição da Solução
-> Breve explicação do que será desenvolvido e entregue nesta etapa.  
+ 
 - Duas páginas separando informações de produtos em massa e de volume
 - Informações ainda não acuradas
 
