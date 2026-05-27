@@ -33,10 +33,10 @@
 ## 📅 Sprint(s) Relacionadas
 | Sprint | Entregas Principais                          | Status   |
 |--------|----------------------------------------------|----------|
-| 01     | [Retratamento doa dados]                        |Em andamento|
-| 02     | [Filtrar produtos condizentes ao propósito dá análise]                           | Em andamento |
-| 03     | [Separar a base de dados em duas, uma para unidades em massa, e outra para unidades em volume]                           | Em andamento |
-| 04     | [Criar comparativo entre volume transportado por modal]                           | Em andamento |
+| 01     | Retratamento doa dados                        |Em andamento|
+| 02     | Filtrar produtos condizentes ao propósito dá análise                           | Em andamento |
+| 03     | Separar a base de dados em duas, uma para unidades em massa, e outra para unidades em volume                           | Em andamento |
+| 04     | Criar comparativo entre volume transportado por modal                           | Em andamento |
 
 ---
 
