@@ -1,24 +1,22 @@
-# 📌 MVP - [Nome do Projeto]
+# 📌 MVP - LogSystem - Sprint 2
 
 ## 🎯 Objetivo do MVP
-> Descrever de forma clara qual é o propósito do MVP:  
-- Qual problema resolve?  
-- Qual hipótese será validada?  
-- Qual valor será entregue ao usuário final?  
+
+- Fonte de análise sobre transporte de cargas especiais perigosas 
+- Dados do IBAMA sobre transporte cargas especiais perigosas 
+- Dados reais e bem filtrados  
 
 ---
 
 ## 📝 Descrição da Solução
 > Breve explicação do que será desenvolvido e entregue nesta etapa.  
-- Funcionalidades principais incluídas  
-- Limitações conhecidas  
-- Escopo reduzido (somente o essencial para validar a ideia)  
+- Duas páginas separando informações de produtos em massa e de volume
+- Informações ainda não acuradas
 
 ---
 
 ## 👥 Personas / Usuários-Alvo
-- **Persona 1:** breve descrição, necessidades e dores atendidas  
-- **Persona 2:** breve descrição, necessidades e dores atendidas  
+- **Persona 1:** Gestor do IPEM 
 
 ---
 
@@ -35,33 +33,31 @@
 ## 📅 Sprint(s) Relacionadas
 | Sprint | Entregas Principais                          | Status   |
 |--------|----------------------------------------------|----------|
-| 01     | [Funcionalidade X, Y]                        | Concluído|
-| 02     | [Funcionalidade Z]                           | Em andamento |
+| 01     | [Retratamento doa dados]                        |Em andamento|
+| 02     | [Filtrar produtos condizentes ao propósito dá análise]                           | Em andamento |
+| 03     | [Separar a base de dados em duas, uma para unidades em massa, e outra para unidades em volume]                           | Em andamento |
+| 04     | [Criar comparativo entre volume transportado por modal]                           | Em andamento |
 
 ---
 
 ## 📊 Critérios de Aceitação
-- O MVP deve permitir que o usuário [ação principal]  
-- O sistema deve registrar [evento importante]  
-- Métricas coletadas: [exemplo: tempo de resposta, taxa de uso]  
-
+- Os dados devem ser reais e acuradoos;   
+- Os visores devem exibir informações relevantes e que façam sentido;
+- Dashboard interpretável e navegação fácil 
 ---
 
 ## 📈 Métricas de Validação
-- Número de usuários que testaram o MVP  
-- Feedback qualitativo (positivo/negativo)  
-- Indicadores de negócio (exemplo: % de adesão, redução de custo, etc.)  
+- Verificação da contundência dos dados
+- Testes da formatação dos dados e dos visores 
 
 ---
 
 ## 🚀 Próximos Passos
-- Melhorias planejadas após feedback  
-- Ajustes de usabilidade  
-- Expansão de funcionalidades para próximo incremento  
+- Finalizar o tratamento dos dados
+- Reavaliar as users e o que queremos entregar ao cliente
+
 
 ---
 
 ## 📂 Anexos / Evidências
-- Prints de tela  
-- Fluxos ou protótipos  
-- Vídeo (MVP)  
+(...) 
