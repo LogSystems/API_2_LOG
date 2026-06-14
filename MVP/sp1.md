@@ -1,6 +1,6 @@
 # 📌 MVP - LogSystem: Sprint 1 
 ## 🎯 Objetivo do MVP
-- Entregar ao usuário um dasboard que o permita visualisar as principais cargas especiais perigosas assim como as principais empresas, origem e destino das cargas e a evolução das movimentações, entegrando filtros que facilitem a busca por informações; 
+- Entregar ao usuário um dasboard que permita visualisar as principais cargas especiais perigosas assim como as principais empresas, origem e destino das cargas e a evolução das movimentações, entegrando filtros que facilitem a busca por informações; 
 - Tratar os dados fornecidos pelo portal do IBAMA para utilização no PowerBI;
 - Entregar uma fonte de análise funcionall, com dados sussintos e reais.
 
