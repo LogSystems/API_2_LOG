@@ -1,65 +1,73 @@
-# 📌 MVP - [Nome do Projeto]
+# 📌 MVP - LogSystem - Sprint 3
 
 ## 🎯 Objetivo do MVP
-> Descrever de forma clara qual é o propósito do MVP:  
-- Qual problema resolve?  
-- Qual hipótese será validada?  
-- Qual valor será entregue ao usuário final?  
+- Entregar uma fonte de análise com dados coerentes e números reais;
+- Visores com informações úties ao usuário;
 
 ---
 
 ## 📝 Descrição da Solução
-> Breve explicação do que será desenvolvido e entregue nesta etapa.  
-- Funcionalidades principais incluídas  
-- Limitações conhecidas  
-- Escopo reduzido (somente o essencial para validar a ideia)  
+- Duas páginas separando informações de massa e volume 
+- Filtros de ano e produto 
+- Dados coerentes com o propósito da análise com a realidade
 
 ---
 
 ## 👥 Personas / Usuários-Alvo
-- **Persona 1:** breve descrição, necessidades e dores atendidas  
-- **Persona 2:** breve descrição, necessidades e dores atendidas  
+- **Persona 1: Gestor do IPEM  
+ 
 
 ---
 
 ## 🔑 User Stories (Backlog do MVP)
 | ID  | User Story                                                                 | Prioridade | Estimativa |
 |-----|-----------------------------------------------------------------------------|------------|------------|
-| US1 | Como [tipo de usuário], quero [objetivo] para [benefício esperado].         | Alta       | 5 pontos   |
-| US2 | Como [tipo de usuário], quero [objetivo] para [benefício esperado].         | Média      | 3 pontos   |
+| US1 | Como gestor do IPEM, quero analisar o volume transportado por empresa, para identificar concentração de mercado.         | Alta       | 20 pontos   |
+| US2 | Como gestor do IPEM, quero ver um mapa com rotas mais frequentes, para identificar corredores críticos.         | Alta      | 20 pontos   |
+| US3 | Como gestor do IPEM, quero identificar rotas com maior incidência de irregularidades, para intensificar inspeções.         | Média      | 40 pontos   |
+| US4 | Como gestor do IPEM, quero visualizar variações mensais/anuais, para apoiar decisões estratégicas.         | Média      | 20 pontos   |
 
 ---
 
 ## 📅 Sprint(s) Relacionadas
 | Sprint | Entregas Principais                          | Status   |
 |--------|----------------------------------------------|----------|
-| 01     | [Funcionalidade X, Y]                        | Concluído|
-| 02     | [Funcionalidade Z]                           | Em andamento |
+| 01     | Retirar os dados em branco/nulos da base                        | Concluído|
+| 02     | Transformar a coluna de quantidade transportada para números                          | Concluído |
+| 03     | Transformar os números para o padrão americano                          | Concluído |
+| 04     | Transformar as unidades de medida: miligrama, grama e quilograma; para toneladas                       | Concluído|
+| 05     | Transformar as unidades de medida: mililitro, litro, mil metros cúbicos e milhão de metros cúbicos; para metros cúbicos                         | Concluído |
+| 06     | Excluir da base de dados os produtos quantificados em escalas de medida inconvertiveis                        | Concluído|
+| 07     | Excluir os produtos que não condizem com o objetivo da análise da base de dados                           | Concluído |
+| 08     | Padronizar os textos da base de dados                        | Concluído|
+
 
 ---
 
 ## 📊 Critérios de Aceitação
-- O MVP deve permitir que o usuário [ação principal]  
-- O sistema deve registrar [evento importante]  
-- Métricas coletadas: [exemplo: tempo de resposta, taxa de uso]  
+- O MVP deve conter dados coerentes;
+- Os visuais devem conter gráficos que apresentem informaçõe pertinentes as necessidades do usuário; 
+ 
 
 ---
 
 ## 📈 Métricas de Validação
-- Número de usuários que testaram o MVP  
-- Feedback qualitativo (positivo/negativo)  
-- Indicadores de negócio (exemplo: % de adesão, redução de custo, etc.)  
+- Nehum visual pode apresentar dados descrepantes 
+- Os visores devem estar com as informações conectadas
+- Os filtros devem estar funcionando  
 
 ---
 
 ## 🚀 Próximos Passos
-- Melhorias planejadas após feedback  
-- Ajustes de usabilidade  
-- Expansão de funcionalidades para próximo incremento  
+- Elaborar a apresentação para o cliente
 
 ---
 
 ## 📂 Anexos / Evidências
-- Prints de tela  
+- <img width="1230" height="688" alt="image" src="https://github.com/user-attachments/assets/4229442d-e367-420e-8f3e-4b937ebfb6b4" />
+- <img width="1230" height="687" alt="image" src="https://github.com/user-attachments/assets/08b0937c-c5bb-4a9d-950d-cbc3ac9f9233" />
+
+
+
 - Fluxos ou protótipos  
 - Vídeo (MVP)  
