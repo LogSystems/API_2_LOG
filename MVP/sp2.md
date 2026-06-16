@@ -18,14 +18,6 @@
 ## 👥 Personas / Usuários-Alvo
 - **Persona 1:** Gestor do IPEM 
 
----
-
-## 🔑 User Stories (Backlog do MVP)
-| ID  | User Story                                                                 | Prioridade | Estimativa |
-|-----|-----------------------------------------------------------------------------|------------|------------|
-| US1 | Como gestor do IPEM, quero filtrar cargas por classificação de risco, para focar nas mais perigosas.         | Alta       | 20 pontos   |
-| US2 | Como gestor do IPEM, quero comparar o volume transportado entre modais, para avaliar riscos associados a cada tipo.         | Média      | 20 pontos   |
-| US2 | Como gestor do IPEM, quero identificar períodos com maior volume de transporte, para planejar operações.         | Média      | 15 pontos   |
 
 
 ---
