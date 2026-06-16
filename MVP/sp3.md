@@ -2,14 +2,14 @@
 
 ## 🎯 Objetivo do MVP
 - Entregar uma fonte de análise com dados coerentes e números reais;
-- Visores com informações úties ao usuário;
+- Visores com informações acuradas;
 
 ---
 
 ## 📝 Descrição da Solução
 - Duas páginas separando informações de massa e volume 
 - Filtros de ano e produto 
-- Dados coerentes com o propósito da análise com a realidade
+- Dados coerentes e confiáveis
 
 ---
 
