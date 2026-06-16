@@ -17,15 +17,6 @@
 - **Persona 1: Gestor do IPEM  
  
 
----
-
-## 🔑 User Stories (Backlog do MVP)
-| ID  | User Story                                                                 | Prioridade | Estimativa |
-|-----|-----------------------------------------------------------------------------|------------|------------|
-| US1 | Como gestor do IPEM, quero analisar o volume transportado por empresa, para identificar concentração de mercado.         | Alta       | 20 pontos   |
-| US2 | Como gestor do IPEM, quero ver um mapa com rotas mais frequentes, para identificar corredores críticos.         | Alta      | 20 pontos   |
-| US3 | Como gestor do IPEM, quero identificar rotas com maior incidência de irregularidades, para intensificar inspeções.         | Média      | 40 pontos   |
-| US4 | Como gestor do IPEM, quero visualizar variações mensais/anuais, para apoiar decisões estratégicas.         | Média      | 20 pontos   |
 
 ---
 
