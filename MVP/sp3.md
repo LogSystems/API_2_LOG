@@ -14,7 +14,7 @@
 ---
 
 ## 👥 Personas / Usuários-Alvo
-- *Persona 1: Gestor do IPEM  
+- Persona 1: Gestor do IPEM  
  
 
 
