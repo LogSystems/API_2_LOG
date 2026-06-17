@@ -58,9 +58,3 @@
 - <img width="1230" height="688" alt="image" src="https://github.com/user-attachments/assets/4229442d-e367-420e-8f3e-4b937ebfb6b4" />
 - <img width="1230" height="687" alt="image" src="https://github.com/user-attachments/assets/08b0937c-c5bb-4a9d-950d-cbc3ac9f9233" />
 
-
-
-
-
-- Fluxos ou protótipos  
-- Vídeo (MVP)  
