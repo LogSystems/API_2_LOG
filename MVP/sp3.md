@@ -58,6 +58,5 @@
 - <img width="1230" height="688" alt="image" src="https://github.com/user-attachments/assets/4229442d-e367-420e-8f3e-4b937ebfb6b4" />
 - <img width="1230" height="687" alt="image" src="https://github.com/user-attachments/assets/08b0937c-c5bb-4a9d-950d-cbc3ac9f9233" />
 
-[![Assista ao vídeo](<img width="1317" height="846" alt="image" src="https://github.com/user-attachments/assets/f6457595-b60b-405e-b1bc-1b928e45ef04" />
-)](https://youtu.be/NA1gFUvsHRc?is=Qm-NyyQlQmFRHv9w)
+[![Assista ao vídeo](https://youtu.be/NA1gFUvsHRc?is=Qm-NyyQlQmFRHv9w)](https://youtu.be/NA1gFUvsHRc?is=Qm-NyyQlQmFRHv9w)
 
